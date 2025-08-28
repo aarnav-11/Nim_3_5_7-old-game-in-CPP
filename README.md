@@ -14,7 +14,6 @@ Row 3: 7 cells
 ## Files
 - `Nim_3_5_7/main2.cpp`: Active playable version with simple console UI.
 - `Nim_3_5_7/main.cpp`: Earlier commented draft.
-- `Tic_Tac_Toe.xcodeproj`: Xcode project (kept as-is); build/run from this project or compile `main2.cpp` directly.
 
 ## Build (CLI)
 

@@ -1,10 +1,10 @@
 # Nim 3-5-7 (Console)
 
-Two-player take-away game on three rows of sizes 3, 5, and 7.
+This is a cool project I built after 15 days of coding and iteration. It implements the classic Nim puzzle in a simple console interface.
 
 - Players alternate turns selecting a row (1–3) and a block number; the code fills all cells in that row up to the block. Each row can only advance forward.
 - The player who makes the final filling move (all 15 cells filled) wins.
-- This is equivalent to classic Nim with heaps [3, 5, 7].
+- This is equivalent to classic Nim with heaps [3, 5, 7]. See: Nim (Wikipedia): https://en.wikipedia.org/wiki/Nim
 
 ## Layout
 Row 1: 3 cells
